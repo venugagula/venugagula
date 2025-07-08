@@ -69,12 +69,6 @@ I’m a results-driven **Data Engineer** with 4+ years of experience designing *
 - Real-time ingestion and sentiment analysis on trending tweets
 - Visualized public opinion flow with dynamic dashboards
 
----
-
-## 📈 GitHub Stats
-
-![Venugagula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venugagula&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venugagula&layout=compact&theme=tokyonight)
 
 ---
 
