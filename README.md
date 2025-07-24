@@ -1,74 +1,91 @@
 # 👋 Hi, I'm Venugopal Reddy Gangula  
 🚀 Data Engineer | Cloud ETL Architect | Real-Time Analytics  
-📍 Chicago, IL | 🌐 [Portfolio](https://venugagula.github.io/personal-portfolio2)  
-📫 venugangula44@gmail.com | [LinkedIn](https://linkedin.com/in/venugopalReddygangula) | [GitHub](https://github.com/venugagula)
+📍 Chicago, IL  
+📫 venugangula44@gmail.com | [GitHub](https://github.com/venugagula) | [LinkedIn](https://linkedin.com/in/venugopalReddygangula)  
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
+I’m a results-oriented **Data Engineer** with 3+ years of experience delivering scalable, cloud-based data solutions. I specialize in **ETL pipeline development**, **real-time data processing**, and **analytics automation** across **AWS**, **Azure**, and **Snowflake** environments.
 
-I'm a results-driven **Data Engineer** with 4+ years of experience building cloud-native, scalable ETL pipelines and real-time analytics platforms across **AWS**, **Azure**, and **Snowflake**. My passion lies in transforming raw data into business value — with proven impact in healthcare, financial trading, and nonprofit analytics.
-
-🔹 **Key Highlights:**
-- Processed 12M+ healthcare records using FHIR/HL7 standards  
-- Engineered ultra-low latency pipelines processing 10M+ messages/sec  
-- Reduced pipeline latency by 75% and reconciliation errors by 40%  
-- Deployed HIPAA-compliant, cost-optimized data architectures  
-- Delivered $500K+ in efficiency and performance improvements  
-
----
-
-## 💻 Tech Stack
-
-**Languages:** Python, SQL, PySpark, R, Bash, Java, VBA, DAX  
-**Data Engineering:** Apache Spark, Kafka, Airflow, AWS Glue, Azure Data Factory, Snowflake, Databricks, Delta Lake, Hadoop, DBT  
-**Cloud Platforms:**  
-☁️ AWS (S3, Glue, Redshift, Lambda, EMR)  
-☁️ Azure (ADF, ADLS, Synapse, Databricks)  
-☁️ GCP (BigQuery)  
-**Modeling & Warehousing:** Star/Snowflake Schema, Dimensional Modeling, Medallion Architecture, FHIR/HL7 Standards  
-**Dashboards & BI:** Power BI, Tableau, Looker, Excel  
-**Governance & Validation:** Great Expectations, Unity Catalog, HIPAA Compliance  
+✅ Highlights:  
+- Built ultra-low latency pipelines processing 10M+ messages/sec  
+- Reduced tick-to-trade latency by **75%** for real-time trading  
+- Designed FHIR-compliant healthcare architecture  
+- Modeled Snowflake warehouses and orchestrated 50+ Airflow DAGs  
+- Built validation frameworks reducing reconciliation errors by **40%**  
 
 ---
 
-## 🧪 Featured Projects
+## 🛠 Tech Skills
 
-### 🏥 Patient Readmission Prediction Pipeline  
-**AWS Glue · PySpark · FHIR · Power BI · Great Expectations**  
-- Real-time ETL pipeline for 50K+ daily EHR records  
-- Achieved 83% model accuracy using Logistic Regression + SMOTE  
-- Automated quality checks and reporting for hospital readmission prevention  
-- Enabled a 28% drop in preventable readmissions during pilot phase  
+**Programming & Frameworks:**  
+Python (Pandas, NumPy, Scikit-learn, TensorFlow), PySpark, SQL (PostgreSQL), R, Bash, VBA, DAX  
 
-### 🛒 Azure E-Commerce ETL Pipeline  
-**Azure Data Factory · Delta Lake · Databricks · PySpark**  
-- Processed 15GB+/day using Medallion architecture (Bronze → Silver → Gold)  
-- Improved upsert performance by 40% with optimized Delta Lake merge logic  
-- Automated workflows to enable near real-time BI dashboards  
+**Data Engineering & Pipelines:**  
+Apache Spark, Kafka, Airflow, AWS Glue, Azure Data Factory, Hadoop, DBT, Great Expectations  
+
+**Cloud & Infrastructure:**  
+- **AWS:** S3, EMR, Glue, Lambda, Redshift, EC2, RDS  
+- **Azure:** Data Factory, ADLS Gen2, Databricks, Synapse  
+- **GCP:** BigQuery  
+
+**Modeling & Warehousing:**  
+Star & Snowflake Schema, Dimensional Modeling, Medallion Architecture  
+
+**BI & Visualization:**  
+Power BI, Tableau, Looker, Excel (Power Query, Pivot Tables)  
+
+**CI/CD & Tools:**  
+GitHub Actions, HDFS, Hive, MongoDB  
+
+---
+
+## 💼 Experience
+
+**🔹 Chicago Education Advocacy Cooperative (ChiEAC)** *(Jul 2025 – Present)*  
+*Data Engineer via Data Science Alliance (Remote)*  
+- Volunteering to build FHIR-compliant architecture and audit AWS Glue pipelines  
+- Supporting early Power BI dashboards for student performance tracking  
+
+**🔹 Tata Consultancy Services (TCS)** *(Jul 2021 – Jun 2023)*  
+*Data Engineer – Hyderabad, India*  
+- Built real-time pipelines with Python + Kafka processing 10M+ events/sec  
+- Deployed DBT-modeled Snowflake warehouse and 50+ Airflow DAGs  
+- Implemented data validation using Great Expectations for 20+ datasets  
+
+**🔹 TeamTech Solutions** *(May 2020 – Jun 2021)*  
+*Data Engineer – Hyderabad, India*  
+- Automated 1TB+ financial data pipelines with ADF & Databricks  
+- Developed PySpark-based fraud detection model (82% accuracy)  
+- Built Snowflake ELT processes and investor dashboards saving 15+ hours/week  
+
+---
+
+## 🔬 Projects
 
 ### 🐦 Real-Time Twitter Analytics  
-**Apache Kafka · Spark Structured Streaming · MongoDB · Power BI**  
-- Ingested and processed 10K+ tweets/hour in real time  
-- Performed sentiment analysis using TextBlob (85% accuracy)  
-- Built interactive Power BI dashboards tracking sentiment trends by hashtag/topic  
+**Kafka · Spark Structured Streaming · MongoDB · Power BI**  
+- Ingested 10K+ tweets/hour and classified sentiment with 85% accuracy using TextBlob  
+- Stored data in MongoDB and visualized trends using Power BI  
+
+### 🛍️ Azure E-Commerce ETL Pipeline  
+**ADF · Databricks · Delta Lake · PySpark**  
+- Processed 15GB+/day using Medallion Architecture (Bronze → Gold)  
+- Improved upsert speed by 40% and reduced ETL runtime by 25%  
 
 ---
 
 ## 🎓 Education
 
-**M.S. in Computer/IT Administration & Management**  
-*Lindsey Wilson College · Columbia, KY*  
-📆 *Graduating: May 2025*
+**Master’s in Computer/IT Administration & Management**  
+Lindsey Wilson College – Columbia, KY  
+📅 Aug 2023 – May 2025  
 
 ---
 
-## ✉️ Let’s Connect
+## 📬 Contact
 
-- 📧 venugangula44@gmail.com  
-- 🌐 [Portfolio Website](https://venugagula.github.io/personal-portfolio2)  
-- 💼 [LinkedIn](https://linkedin.com/in/venugopalReddygangula)  
-- 🛠️ [GitHub](https://github.com/venugagula)
-
-> “Build once. Scale forever.”
-
+- 📧 Email: venugangula44@gmail.com  
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/venugopalReddygangula)  
+- 💻 [GitH]()
